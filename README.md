@@ -45,6 +45,20 @@ To view this portfolio locally, follow these steps:
 3. Open index.html in your browser to see the website locally.
 
 ## 🛠️ Features to Be Added
-More projects and case studies showcasing my skills.
-Blog section for sharing technical knowledge and insights.
-Enhanced animations and interactive UI elements.
+- More projects and case studies showcasing my skills.
+- Blog section for sharing technical knowledge and insights.
+- Enhanced animations and interactive UI elements.
+
+## 🤝 Contributing
+If you'd like to contribute, feel free to fork this repository, make improvements, or submit bug fixes. I appreciate any contributions and pull requests!
+
+## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+### Changes Made:
+- Every section from "Live Website" onward is now properly enclosed in markdown syntax, so it will render the correct formatting on GitHub.
+- Backticks (`) were used around code segments to ensure they appear properly as inline code or code blocks.
+
+This version will display everything properly, and it will also be easy to copy/paste into your GitHub `README.md` file.
+
