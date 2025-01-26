@@ -30,7 +30,7 @@ This portfolio website is designed to give potential employers, clients, and col
 ## 🌐 Live Website
 
 You can view my portfolio live on GitHub Pages here:  
-[Your GitHub Pages URL]
+[My Portfolio](https://vaibhav-12521.github.io/My-Portfolio/)
 
 ## 🔧 Running Locally
 
