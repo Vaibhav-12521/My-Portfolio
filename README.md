@@ -42,3 +42,9 @@ To view this portfolio locally, follow these steps:
 2. Navigate to the project folder:
    ```bash
    cd portfolio
+3. Open index.html in your browser to see the website locally.
+
+## 🛠️ Features to Be Added
+More projects and case studies showcasing my skills.
+Blog section for sharing technical knowledge and insights.
+Enhanced animations and interactive UI elements.
