@@ -56,9 +56,3 @@ If you'd like to contribute, feel free to fork this repository, make improvement
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
-### Changes Made:
-- Every section from "Live Website" onward is now properly enclosed in markdown syntax, so it will render the correct formatting on GitHub.
-- Backticks (`) were used around code segments to ensure they appear properly as inline code or code blocks.
-
-This version will display everything properly, and it will also be easy to copy/paste into your GitHub `README.md` file.
-
