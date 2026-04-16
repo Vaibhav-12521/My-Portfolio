@@ -10,7 +10,7 @@ This portfolio website is designed to give potential employers, clients, and col
 - **Services**: A list of the services I offer as a web developer, including web development, UI/UX design, and consulting.
 - **Projects**: Showcasing some of the projects I have worked on, with detailed descriptions and technologies used.
 - **Testimonials**: Feedback from previous collaborators, clients, and employers.
-- **Contact**: A section where you can reach out to me for any inquiries, collaborations, or job opportunities.
+- **Contact**: A section where you can reach out to me for any inquiries, collaborations, or job opportunities. 
 
 ## 🚀 Features
 
