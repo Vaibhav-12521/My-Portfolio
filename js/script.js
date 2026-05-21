@@ -54,7 +54,7 @@ var swiper = new Swiper(".mySwiper", {
     },
 });
 
-
+ 
 /*========== dark light mode ==========*/
 let darkModeIcon = document.querySelector('#darkMode-icon');
 
