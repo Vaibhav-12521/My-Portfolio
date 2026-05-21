@@ -32,7 +32,6 @@ let header = document.querySelector('.header');
 header.classList.toggle('sticky', window.scrollY > 100);
 
 
-/*========== remove menu icon navbar when click navbar link (scroll) ==========*/
 menuIcon.classList.remove('bx-x');
 navbar.classList.remove('active');
 
